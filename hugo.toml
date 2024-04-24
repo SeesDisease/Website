@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "www.seesdisease.com"
+baseURL = "https://real-duck.github.io/sdcorp/"
 # Title of your website (required).
 title = "SeesDisease"
 # Your theme name
