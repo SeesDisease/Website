@@ -1,20 +1,16 @@
 ---
-title: Sam Wilson
-email: samwilson@email.com
-image: "/images/avatar.png"
+title: Lorenz Rutkevich
+email: david.rutkevich@seesdisease.com
+image: "/images/lorenz-jgesb.png"
 description: this is meta description
 social:
   - name: github
     icon: fa-brands fa-github
-    link: https://github.com
-
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
+    link: https://github.com/LorenzRutkevich/
 
   - name: linkedin
     icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+    link: https://www.linkedin.com/in/lorenz-rutkevich/
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Enthusiast of AI in medical hardware integration. I am always in search of new cool things to do.
