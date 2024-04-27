@@ -48,8 +48,8 @@ pageRef = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
-pageRef = "/elements"
+name = "The Founders"
+pageRef = "/The-Founders"
 weight = 2
 
 [[footer]]
