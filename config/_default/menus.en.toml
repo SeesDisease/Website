@@ -35,11 +35,6 @@ parent = "Pages"
 name = "Categories"
 pageRef = "/categories"
 
-[[main]]
-parent = "Pages"
-name = "404 Page"
-pageRef = "/404"
-
 
 # footer menu
 [[footer]]
