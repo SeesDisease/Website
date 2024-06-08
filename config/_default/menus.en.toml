@@ -6,10 +6,10 @@ name = "Home"
 pageRef = "/"
 weight = 1
 
-[[main]]
-name = "The Founders"
-pageRef = "/The Founders"
-weight = 3
+#[[main]]
+#name = "The Founders"
+#pageRef = "/The Founders"
+#weight = 3
 
 [[main]]
 weight = 4
@@ -37,17 +37,17 @@ pageRef = "/categories"
 
 
 # footer menu
-[[footer]]
-name = "About"
-pageRef = "/about"
-weight = 1
+#[[footer]]
+#name = "About"
+#pageRef = "/about"
+#weight = 1
 
-[[footer]]
-name = "The Founders"
-pageRef = "/The-Founders"
-weight = 2
+#[[footer]]
+#name = "The Founders"
+#pageRef = "/The-Founders"
+#weight = 2
 
-[[footer]]
-name = "Privacy Policy"
-pageRef = "/privacy-policy"
-weight = 3
+#[[footer]]
+#name = "Privacy Policy"
+#pageRef = "/privacy-policy"
+#weight = 3
