@@ -2,39 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog Posts on SeesDisease</title>
-    <link>//localhost:1313/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blog Posts on SeesDisease</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 -0400</lastBuildDate>
-    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Why use weakly supervised learning in pathology?</title>
-      <link>//localhost:1313/blog/post-1/</link>
-      <pubDate>Sat, 20 Apr 2024 00:00:00 -0400</pubDate>
-      <guid>//localhost:1313/blog/post-1/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
-    </item>
-    <item>
-      <title>How to build an Application with modern Technology</title>
-      <link>//localhost:1313/blog/post-2/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/post-2/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
-    </item>
-    <item>
-      <title>How to build an Application with modern Technology</title>
-      <link>//localhost:1313/blog/post-3/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/post-3/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
-    </item>
-    <item>
-      <title>How to build an Application with modern Technology</title>
-      <link>//localhost:1313/blog/post-4/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/post-4/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
-    </item>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

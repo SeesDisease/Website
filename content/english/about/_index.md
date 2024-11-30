@@ -1,9 +1,17 @@
 ---
-title: "Hey, we are the founders of SeesDisease!"
-meta_title: "About"
-description: "this is meta description"
-image: "/images/avatar.png"
+title: "Imprint"
+meta_title: "Imprint"
+description: "Legal information about 'SeesDisease'"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+
+## Contact  
+Email: [contact@seesdisease.com](mailto:contact@seesdisease.com)  
+
+## Disclaimer  
+The content of this website was created with great care. However, we cannot guarantee the accuracy, completeness, or timeliness of the content. If you notice any errors or legal violations, please contact us directly.
+
+## Copyright  
+All content on this website is protected by copyright. Unauthorized reproduction, distribution, or use of this content is prohibited without prior written consent from the website operator.
+
